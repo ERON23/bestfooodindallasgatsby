@@ -24,4 +24,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/links.md
 - src/pages/about.md
