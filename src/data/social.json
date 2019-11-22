@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Yelp",
+      "icon": "fa-yelp",
+      "url": "https://bestfoodindallas.yelp.com"
+    },
+    {
       "title": "Facebook",
       "icon": "facebook-f",
       "url": "https://www.facebook.com/bestfoodindallas"
