@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Who we are.
+subtitle: Introducing Emelia & Erick.
 img_path: "/images/cropped.jpg"
 menus:
   main:
