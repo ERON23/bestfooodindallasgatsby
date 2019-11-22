@@ -1,9 +1,10 @@
 {
   "links": [
     {
-      "title": "Yelp",
-      "icon": "fa-yelp",
-      "url": "https://bestfoodindallas.yelp.com"
+      "type": "instagram",
+      "title": "Instagram",
+      "icon": "fa-instagram",
+      "url": "https://www.instagram.com/bestfoodindallas"
     },
     {
       "title": "Facebook",
@@ -17,10 +18,9 @@
       "url": "https://twitter.com/foodindallas"
     },
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/bestfoodindallas"
+      "title": "Yelp",
+      "icon": "fa-yelp",
+      "url": "https://bestfoodindallas.yelp.com"
     }
   ]
 }
