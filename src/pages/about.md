@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Introducing Emelia & Erick.
+subtitle: Introducing Emelia & Erick founders of BestFoodinDallas.
 img_path: "/images/cropped.jpg"
 menus:
   main:
