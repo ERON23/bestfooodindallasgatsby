@@ -1,19 +1,20 @@
 ---
 title: Links
 subtitle: Links.
-- type: postsblock
-  template: postsblock
-  title: Recent Posts
-  section_id: recent-posts
-  actions:
-  - label: View Blog
-    url: blog/index.html
-  component: PostsBlock
-  num_posts_displayed: '0'
+img_path: "/images/new_logo_july.jpg"
 menus:
   main:
-    title: Home
-    weight: 1
-template: home
+    title: Links
+    weight: 4
+template: page
+section_id: "1"
+actions:
+- label: google
+  url: google.com
+- label: Top coffee shops to visit in Dallas
+  url: https://www.bizjournals.com/dallas/gallery/463649
+component: hi
+content: hi
+type: f
 
 ---
