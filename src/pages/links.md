@@ -1,7 +1,7 @@
 ---
 title: Links
 subtitle: Links.
-img_path: ''
+img_path: "/images/new_logo_july.jpg"
 menus:
   main:
     title: Links
