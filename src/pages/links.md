@@ -1,12 +1,16 @@
 ---
 title: Links
 subtitle: Links.
-img_path: "/images/cropped.jpg"
+img_path: ''
 menus:
   main:
     title: Links
     weight: 4
 template: page
+section_id: ''
+actions: []
+component: hi
+content: ''
+type: f
 
 ---
-this is a test
