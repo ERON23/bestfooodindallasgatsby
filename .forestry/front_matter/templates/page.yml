@@ -23,11 +23,12 @@ fields:
   default: page
   config:
     required: true
-- name: d
+- name: links
   type: include
   config: {}
   template: heroblock
-  label: d
+  label: Our links
+  description: Links here
 pages:
 - src/pages/links.md
 - src/pages/about.md
