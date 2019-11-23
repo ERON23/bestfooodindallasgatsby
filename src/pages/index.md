@@ -28,7 +28,7 @@ sections:
   - label: View Blog
     url: blog/index.html
   component: PostsBlock
-  num_posts_displayed: 4
+  num_posts_displayed: '0'
 menus:
   main:
     title: Home
