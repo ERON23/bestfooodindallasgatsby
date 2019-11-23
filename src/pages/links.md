@@ -9,6 +9,8 @@ menus:
 template: page
 section_id: "1"
 actions:
+- label: google
+  url: google.com
 - label: Top coffee shops to visit in Dallas
   url: https://www.bizjournals.com/dallas/gallery/463649
 component: hi
