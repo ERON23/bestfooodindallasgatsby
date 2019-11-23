@@ -8,7 +8,9 @@ menus:
     weight: 4
 template: page
 section_id: ''
-actions: []
+actions:
+- label: Top coffee shops to visit in Dallas
+  url: https://www.bizjournals.com/dallas/gallery/463649
 component: hi
 content: ''
 type: f
