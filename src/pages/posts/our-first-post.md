@@ -5,7 +5,7 @@ subtitle: ''
 date: 2019-11-23T00:00:00Z
 thumb_img_path: "/images/IMG_1169-1.PNG"
 content_img_path: "/images/IMG_1169-2.PNG"
-excerpt: ''
+excerpt: Thank you all for all the love we get!
 canonical_url: "/images/IMG_1169-3.PNG"
 
 ---
