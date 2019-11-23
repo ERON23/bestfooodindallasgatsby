@@ -11,16 +11,14 @@ sections:
   actions: []
 - type: contentblock
   template: contentblock
-  title: About
+  title: Thank you for visiting!
   section_id: about
   actions:
   - label: Contact Me
     url: "/contact"
   component: ContentBlock
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: Stay tuned for more content coming soon! In the mean time enjoy the holidays
+    with friends and family. With much love the BFID team ❤️
   image: ''
 - type: postsblock
   template: postsblock
