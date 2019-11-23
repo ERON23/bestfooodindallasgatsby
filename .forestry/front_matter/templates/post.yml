@@ -41,4 +41,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/our-first-post.md
 - src/pages/posts/fragments-of-iceland.md
