@@ -6,7 +6,7 @@
     "title": "BestFoodinDallas",
     "tagline": "Food Lover looking for the best food in town.",
     "profile_img": "/images/new_logo_july.jpg",
-    "bg": "dark",
+    "bg": "light",
     "has_nav": true,
     "has_social": true
   },
