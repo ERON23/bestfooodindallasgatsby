@@ -9,9 +9,11 @@ excerpt: ''
 canonical_url: ''
 
 ---
-Welcoming 2020 with our first post about our personal top 5 taco list for you to try!.
+Welcoming 2020 with our first post about our personal top 5 taco list for you to try!. The list is an unordered list.
 
 ### Salsa Verde
+
+Before we started blogging this spot has been my all time personal favorite. The main attraction is the "Fajiqueso" tacos. A combination of melted cheese and fajita along with 3 different types of salsas to choose from. 
 
 ### Chilangos Tacos
 
