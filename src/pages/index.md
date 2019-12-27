@@ -32,7 +32,7 @@ sections:
 - template: contentblock
   component: ContentBlock
   type: contentblock
-  title: Google Forms
+  title: Have a place for us to try?
   section_id: google
   actions:
   - label: Submit Form
