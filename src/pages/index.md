@@ -29,6 +29,17 @@ sections:
     url: blog/index.html
   component: PostsBlock
   num_posts_displayed: '0'
+- template: contentblock
+  component: ContentBlock
+  type: contentblock
+  title: Google Forms
+  section_id: google
+  actions:
+  - label: Submit Form
+    url: https://docs.google.com/forms/d/e/1FAIpQLSf9sQynmW4dpqvWND_mM7e6cWeExtDwlaiZPkcR5lBAY-xUpg/viewform
+  content: If you have a personal suggestion of a food place/drinks let us know in
+    our google forms.
+  image: ''
 menus:
   main:
     title: Home
