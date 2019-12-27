@@ -17,8 +17,9 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: ContentBlock
-  content: Stay tuned for more content coming soon! In the mean time enjoy the holidays
-    with friends and family. With much love the BFID team ❤️
+  content: 'Stay tuned for more content coming soon! In the mean time enjoy the holidays
+    with friends and family. With much love the BFID team ❤️ In case you need to contact
+    us hit the contact me button below. '
   image: ''
 - type: postsblock
   template: postsblock
