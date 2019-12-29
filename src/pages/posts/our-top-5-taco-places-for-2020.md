@@ -19,7 +19,7 @@ Before we started blogging this spot has been my all time personal favorite. The
 
 ### Chilangos Tacos
 
-Mexico city street style tacos is what Chilango's tacos are known for. They have proven they carry that style over to their food and theme of their restaurant. The tortilla and the meat are something very different than other places. 
+Mexico city street style tacos is what Chilango's tacos are known for. They have proven they carry that style over to their food and theme of their restaurant. The tortilla and the meat are something very different than other places.
 
 (Yelp Rating: **5**) (Google Reviews **4.6**)
 
@@ -28,3 +28,7 @@ Mexico city street style tacos is what Chilango's tacos are known for. They have
 ### El Atoron
 
 ### Fuel City
+
+(Yelp Rating: **4.5**) (Google Reviews **4.0**)
+
+![](/images/fuel_city_tacos.jpg)
