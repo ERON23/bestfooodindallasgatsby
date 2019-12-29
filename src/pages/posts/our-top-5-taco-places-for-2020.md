@@ -29,6 +29,8 @@ Mexico city street style tacos is what Chilango's tacos are known for. They have
 
 ### Fuel City
 
+In the heart of Downtown Dallas you can find one of the most interesting places to eat tacos. Gas station tacos are very popular and even better when you can eat them on the go. 
+
 (Yelp Rating: **4.5**) (Google Reviews **4.0**)
 
 ![](/images/fuel_city_tacos.jpg)
