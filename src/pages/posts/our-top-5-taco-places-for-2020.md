@@ -1,6 +1,6 @@
 ---
 template: post
-title: Our Top 5 Taco Places For 2020
+title: Our Top Taco Spots For 2020
 subtitle: ''
 date: 2019-12-27T06:00:00Z
 thumb_img_path: "/images/salsa_verde_tacos.jpg"
@@ -27,9 +27,13 @@ Mexico city street style tacos is what Chilango's tacos are known for. They have
 
 ### El Atoron
 
+We had been hearing about this spot for a while and we finally got around to trying them. I’m glad we did! It’s a small hole in the wall place hidden in East Dallas. This place is known for their Mexico City style tacos and tortas. When I took the first bite, the taco literally melted in my mouth, the combination of handmade tortilla, carne asada and salsa was amazing! We highly recommend giving El Atoron a try! The experience we got was a memorable one!
+
+![](/images/el_atoron_tacos.jpg)
+
 ### Fuel City
 
-In the heart of Downtown Dallas you can find one of the most interesting places to eat tacos. Gas station tacos are very popular and even better when you can eat them on the go. 
+In the heart of Downtown Dallas you can find one of the most interesting places to eat tacos. Gas station tacos are very popular and even better when you can eat them on the go.
 
 (Yelp Rating: **4.5**) (Google Reviews **4.0**)
 
