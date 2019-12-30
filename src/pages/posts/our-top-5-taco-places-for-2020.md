@@ -27,7 +27,7 @@ Mexico city street style tacos is what Chilango's tacos are known for. They have
 
 ### El Atoron
 
-We had been hearing about this spot for a while and we finally got around to trying them. I’m glad we did! It’s a small hole in the wall place hidden in East Dallas. This place is known for their Mexico City style tacos and tortas. When I took the first bite, the taco literally melted in my mouth, the combination of handmade tortilla, carne asada and salsa was amazing! We highly recommend giving El Atoron a try! The experience we got was a memorable one!
+We had been hearing about this spot for a while and we finally got around to trying them. I’m glad we did! It’s a small hole in the wall place hidden in East Dallas. This place is known for their Mexico City style tacos and tortas. When I took the first bite, the taco literally melted in my mouth, the combination of handmade tortilla, carne asada and salsa was amazing! We highly recommend giving El Atoron a try! The experience we got was a memorable one! (Yelp Rating: **4**) (Google Reviews **4.3**)
 
 ![](/images/el_atoron_tacos.jpg)
 
