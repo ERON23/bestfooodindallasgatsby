@@ -10,7 +10,7 @@ excerpt: ''
 canonical_url: ''
 
 ---
-Welcoming 2020 with our first post about our personal top taco list for you to try! (The list is an unordered list.)
+Welcoming 2020 with our first post about our personal top street-style taco list for you to try! (The list is an unordered list)
 
 ## La Salsa Verde Taqueria
 
