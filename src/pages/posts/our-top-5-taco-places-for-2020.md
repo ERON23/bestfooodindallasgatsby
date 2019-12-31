@@ -1,7 +1,8 @@
 ---
 template: post
-title: Our Top Taco Spots For 2020
-subtitle: ''
+title: Top Taco Spots for 2020 in Dallas
+subtitle: Over the year we went on a journey to find the best tacos in Dallas here
+  is who made the list.
 date: 2019-12-27T06:00:00Z
 thumb_img_path: "/images/salsa_verde_tacos.jpg"
 content_img_path: ''
@@ -45,7 +46,7 @@ In the heart of Downtown Dallas you can find one of the most interesting places 
 
 ## Trompo
 
-Located in the cool area of Bishop Arts its the perfect place to go on a taco date. The vibe is just right and the trompo tacos they offer are a must have. The tortilla is made just right to be combined with an original trompo sauce will leave you wanting for more.  Read about our [experience here.](https://www.instagram.com/p/B3FYfAanQFh/?utm_source=ig_web_copy_link)
+Located in the cool area of Bishop Arts its the perfect place to go on a taco date. The vibe is just right and the Trompo tacos they offer are a must have. The tortilla is made just right to be combined with an original Trompo sauce will leave you wanting for more.  Read about our [experience here.](https://www.instagram.com/p/B3FYfAanQFh/?utm_source=ig_web_copy_link)
 
 (Yelp Rating: **4.5**) (Google Reviews **4.5**)
 
