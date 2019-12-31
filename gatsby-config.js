@@ -9,6 +9,7 @@ module.exports = {
             options: {
                 name: `pages`,
                 path: `${__dirname}/src/pages`,
+                icon: 'static/images/favicon.png',
             },
         },
         {
