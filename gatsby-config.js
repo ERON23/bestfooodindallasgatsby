@@ -37,12 +37,6 @@ module.exports = {
                 pageContextProperty: `menus`,
                 menus: require('./src/data/menus.json'),
             }
-        },
-        {
-            resolve: `gatsby-plugin-google-analytics`,
-            options: {
-                trackingId: "UA-155171672-1",
-            }
         }
     ]
 };
