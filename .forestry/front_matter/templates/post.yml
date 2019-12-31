@@ -42,4 +42,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/our-first-post.md
-- src/pages/posts/our-top-5-taco-places-for-2020.md
+- src/pages/posts/our-top-taco-places-for-2020.md
