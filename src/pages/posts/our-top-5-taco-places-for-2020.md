@@ -11,7 +11,7 @@ excerpt: Over the year we went on a journey to find the best tacos in Dallas her
 canonical_url: ''
 
 ---
-Welcoming 2020 with our first post about our personal top street-style taco list for you to try! (The list is an unordered list)
+Welcoming 2020 with our first post about our personal top street-style taco list for you to try! (The list is in no specific order.)
 
 ## La Salsa Verde Taqueria
 
