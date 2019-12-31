@@ -51,3 +51,11 @@ Located in the cool area of Bishop Arts its the perfect place to go on a taco da
 (Yelp Rating: **4.5**) (Google Reviews **4.5**)
 
 ![](/images/IMG_1693.jpg)
+
+## Taqueria Los Angeles
+
+We had to travel to the city of Plano for these to only find out these were as good as the pictures they post on instagram. The seasoning is amazing especially in the fajitas. The sauce was spicy and good! Oh and hand made tortillas. Read about our [experience here.](https://www.instagram.com/p/B0wBa-JHerZ/?utm_source=ig_web_copy_link)
+
+(Yelp Rating: **3**) (Google Reviews **4.2**)
+
+![](/images/Taqueria_los_angeles.jpg)
