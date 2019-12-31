@@ -3,7 +3,7 @@ template: post
 title: Top Taco Spots for 2020 in Dallas
 subtitle: Over the year we went on a journey to find the best tacos in Dallas here
   is who made the list.
-date: 2019-12-27T06:00:00Z
+date: 2019-12-27T06:00:00.000+00:00
 thumb_img_path: "/images/salsa_verde_tacos.jpg"
 content_img_path: ''
 excerpt: Over the year we went on a journey to find the best tacos in Dallas here
