@@ -45,8 +45,6 @@ In the heart of Downtown Dallas you can find one of the most interesting places 
 
 ## Trompo
 
-Located in the cool area of Bishop Arts its the perfect place to go on a taco date. The vibe is just right and the trompo tacos they offer are a must to have. 
+Located in the cool area of Bishop Arts its the perfect place to go on a taco date. The vibe is just right and the trompo tacos they offer are a must to have.
 
 (Yelp Rating: **4.5**) (Google Reviews **4.5**)
-
-![](/images/trompo_tacos.JPG)
