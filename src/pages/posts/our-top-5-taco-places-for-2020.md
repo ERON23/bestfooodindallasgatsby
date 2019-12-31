@@ -6,7 +6,8 @@ subtitle: Over the year we went on a journey to find the best tacos in Dallas he
 date: 2019-12-27T06:00:00Z
 thumb_img_path: "/images/salsa_verde_tacos.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: Over the year we went on a journey to find the best tacos in Dallas here
+  is who made the list.
 canonical_url: ''
 
 ---
